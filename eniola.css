@@ -1,0 +1,58 @@
+body{
+  font-size: 20px;
+  padding: 20px;
+}
+div.personinfo{
+  background-color: rgb(18, 209, 193);
+  width: 700px;
+  /*margin-right: 500px;*/
+ padding: 8px;
+  border-radius: 5px;
+  color: white;
+  
+}
+div.phone{
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+}
+#email{
+  margin-left: 100px;
+}
+
+.exp{
+  display:flex;
+  
+}
+.experience{
+  margin-left: 700px;
+ }
+h1{
+  padding: 0px;
+  margin: 0px;
+}
+h4{
+  padding: 0px;
+  margin: 0px;
+}
+div.education{
+  display:flex;
+
+}
+div.skills{
+  display:flex;
+
+}
+div.certificate{
+  display:flex;
+
+}
+div.edu{
+  margin-left: 700px;
+ }
+div.skill{
+  margin-left: 750px;
+ }
+p.cert{
+  margin-left: 680px;
+ }
